@@ -1,0 +1,318 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "name": "JS",
+            "id": 1,
+            "type": "SPADES",
+            "image": "assets/cards/JS.png"
+        },
+        {
+            "name": "10C",
+            "id": 2,
+            "type": "CLUBS",
+            "image": "assets/cards/10C.png"
+        },
+        {
+            "name": "KD",
+            "id": 3,
+            "type": "DIAMONDS",
+            "image": "assets/cards/KD.png"
+        },
+        {
+            "name": "KS",
+            "id": 4,
+            "type": "SPADES",
+            "image": "assets/cards/KS.png"
+        },
+        {
+            "name": "8C",
+            "id": 5,
+            "type": "CLUBS",
+            "image": "assets/cards/8C.png"
+        },
+        {
+            "name": "QC",
+            "id": 6,
+            "type": "CLUBS",
+            "image": "assets/cards/QC.png"
+        },
+        {
+            "name": "AD",
+            "id": 7,
+            "type": "DIAMONDS",
+            "image": "assets/cards/AD.png"
+        },
+        {
+            "name": "7C",
+            "id": 8,
+            "type": "CLUBS",
+            "image": "assets/cards/7C.png"
+        },
+        {
+            "name": "QS",
+            "id": 9,
+            "type": "SPADES",
+            "image": "assets/cards/QS.png"
+        },
+        {
+            "name": "6D",
+            "id": 10,
+            "type": "DIAMONDS",
+            "image": "assets/cards/6D.png"
+        },
+        {
+            "name": "8S",
+            "id": 11,
+            "type": "SPADES",
+            "image": "assets/cards/8S.png"
+        },
+        {
+            "name": "4H",
+            "id": 12,
+            "type": "HEARTS",
+            "image": "assets/cards/4H.png"
+        },
+        {
+            "name": "2C",
+            "id": 13,
+            "type": "CLUBS",
+            "image": "assets/cards/2C.png"
+        },
+        {
+            "name": "5H",
+            "id": 14,
+            "type": "HEARTS",
+            "image": "assets/cards/5H.png"
+        },
+        {
+            "name": "8D",
+            "id": 15,
+            "type": "DIAMONDS",
+            "image": "assets/cards/8D.png"
+        },
+        {
+            "name": "8H",
+            "id": 16,
+            "type": "HEARTS",
+            "image": "assets/cards/8H.png"
+        },
+        {
+            "name": "10S",
+            "id": 17,
+            "type": "SPADES",
+            "image": "assets/cards/10S.png"
+        },
+        {
+            "name": "10D",
+            "id": 18,
+            "type": "DIAMONDS",
+            "image": "assets/cards/10D.png"
+        },
+        {
+            "name": "9D",
+            "id": 19,
+            "type": "DIAMONDS",
+            "image": "assets/cards/9D.png"
+        },
+        {
+            "name": "9H",
+            "id": 20,
+            "type": "HEARTS",
+            "image": "assets/cards/9H.png"
+        },
+        {
+            "name": "KC",
+            "id": 21,
+            "type": "CLUBS",
+            "image": "assets/cards/KC.png"
+        },
+        {
+            "name": "AH",
+            "id": 22,
+            "type": "HEARTS",
+            "image": "assets/cards/AH.png"
+        },
+        {
+            "name": "JD",
+            "id": 23,
+            "type": "DIAMONDS",
+            "image": "assets/cards/JD.png"
+        },
+        {
+            "name": "5D",
+            "id": 24,
+            "type": "DIAMONDS",
+            "image": "assets/cards/5D.png"
+        },
+        {
+            "name": "7S",
+            "id": 25,
+            "type": "SPADES",
+            "image": "assets/cards/7S.png"
+        },
+        {
+            "name": "9C",
+            "id": 26,
+            "type": "CLUBS",
+            "image": "assets/cards/9C.png"
+        },
+        {
+            "name": "5C",
+            "id": 27,
+            "type": "CLUBS",
+            "image": "assets/cards/5C.png"
+        },
+        {
+            "name": "AC",
+            "id": 28,
+            "type": "CLUBS",
+            "image": "assets/cards/AC.png"
+        },
+        {
+            "name": "JH",
+            "id": 29,
+            "type": "HEARTS",
+            "image": "assets/cards/JH.png"
+        },
+        {
+            "name": "KH",
+            "id": 30,
+            "type": "HEARTS",
+            "image": "assets/cards/KH.png"
+        },
+        {
+            "name": "AS",
+            "id": 31,
+            "type": "SPADES",
+            "image": "assets/cards/AS.png"
+        },
+        {
+            "name": "2S",
+            "id": 32,
+            "type": "SPADES",
+            "image": "assets/cards/2S.png"
+        },
+        {
+            "name": "7D",
+            "id": 33,
+            "type": "DIAMONDS",
+            "image": "assets/cards/7D.png"
+        },
+        {
+            "name": "QH",
+            "id": 34,
+            "type": "HEARTS",
+            "image": "assets/cards/QH.png"
+        },
+        {
+            "name": "6H",
+            "id": 35,
+            "type": "HEARTS",
+            "image": "assets/cards/6H.png"
+        },
+        {
+            "name": "3S",
+            "id": 36,
+            "type": "SPADES",
+            "image": "assets/cards/3S.png"
+        },
+        {
+            "name": "9S",
+            "id": 37,
+            "type": "SPADES",
+            "image": "assets/cards/9S.png"
+        },
+        {
+            "name": "5S",
+            "id": 38,
+            "type": "SPADES",
+            "image": "assets/cards/5S.png"
+        },
+        {
+            "name": "4C",
+            "id": 39,
+            "type": "CLUBS",
+            "image": "assets/cards/4C.png"
+        },
+        {
+            "name": "4D",
+            "id": 40,
+            "type": "DIAMONDS",
+            "image": "assets/cards/4D.png"
+        },
+        {
+            "name": "JC",
+            "id": 41,
+            "type": "CLUBS",
+            "image": "assets/cards/JC.png"
+        },
+        {
+            "name": "2D",
+            "id": 42,
+            "type": "DIAMONDS",
+            "image": "assets/cards/2D.png"
+        },
+        {
+            "name": "7H",
+            "id": 43,
+            "type": "HEARTS",
+            "image": "assets/cards/7H.png"
+        },
+        {
+            "name": "6C",
+            "id": 44,
+            "type": "CLUBS",
+            "image": "assets/cards/6C.png"
+        },
+        {
+            "name": "3D",
+            "id": 45,
+            "type": "DIAMONDS",
+            "image": "assets/cards/3D.png"
+        },
+        {
+            "name": "10H",
+            "id": 46,
+            "type": "HEARTS",
+            "image": "assets/cards/10H.png"
+        },
+        {
+            "name": "3C",
+            "id": 47,
+            "type": "CLUBS",
+            "image": "assets/cards/3C.png"
+        },
+        {
+            "name": "2H",
+            "id": 48,
+            "type": "HEARTS",
+            "image": "assets/cards/2H.png"
+        },
+        {
+            "name": "6S",
+            "id": 49,
+            "type": "SPADES",
+            "image": "assets/cards/6S.png"
+        },
+        {
+            "name": "3H",
+            "id": 50,
+            "type": "HEARTS",
+            "image": "assets/cards/3H.png"
+        },
+        {
+            "name": "4S",
+            "id": 51,
+            "type": "SPADES",
+            "image": "assets/cards/4S.png"
+        },
+        {
+            "name": "QD",
+            "id": 52,
+            "type": "DIAMONDS",
+            "image": "assets/cards/QD.png"
+        }
+    ]
+}
